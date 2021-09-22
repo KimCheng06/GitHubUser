@@ -33,7 +33,7 @@ class ApiRepository (private val apiHelper: ApiHelper) {
     {
         val headers = HashMap<String, String>()
 
-        headers["Authorization"] = "token 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"
+        headers["Authorization"] = "token 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"
         return headers
     }
 
